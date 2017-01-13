@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fields>
+    <class>Table</class>
+    <var>
+        <name>var1</name>
+        <type>String</type>
+    </var>
+    <var>
+        <name>var2</name>
+        <type>String</type>
+    </var>
+</fields>

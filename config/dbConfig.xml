@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database >
+    <driver>com.mysql.jdbc.Driver</driver>
+    <url>jdbc:mysql://10.97.19.4:3306/ccPandaSysDB</url>
+    <user>root</user>
+    <password>db2202</password>
+    <table>func_relation</table>
+</database>
